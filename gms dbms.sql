@@ -7,10 +7,10 @@ CREATE TABLE IF NOT EXISTS users (
 );
 
 INSERT INTO users (username, password) VALUES
-('zainab', 'pass12'),
-('farayha', 'pass34'),
-('ahmer', 'pass56'),
-('batool', 'pass78');
+-- ('name ', 'pass12'),
+-- ('name', 'pass34'),
+-- ('name', 'pass56'),
+-- ('batool', 'pass78');
 
 select * from users;
 
